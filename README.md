@@ -2,6 +2,7 @@
 
 
 Aplicación web  Desarrollada con React, Tailwind CSS y Vite.
+Demo: https://guileless-meringue-08a2c0.netlify.app/
 
 ## ✨ Características
 - Sistema de turnos interactivo
